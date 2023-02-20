@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\angel\\Desktop\\Tarea final  programacion 2\\De_Tod_chill\\De_Tod_chill\\De_Tod_chill.csproj": {}
+    "C:\\Users\\angel\\Source\\Repos\\De_todo_chill\\De_Tod_chill\\De_Tod_chill.csproj": {}
   },
   "projects": {
-    "C:\\Users\\angel\\Desktop\\Tarea final  programacion 2\\De_Tod_chill\\De_Tod_chill\\De_Tod_chill.csproj": {
+    "C:\\Users\\angel\\Source\\Repos\\De_todo_chill\\De_Tod_chill\\De_Tod_chill.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\angel\\Desktop\\Tarea final  programacion 2\\De_Tod_chill\\De_Tod_chill\\De_Tod_chill.csproj",
+        "projectUniqueName": "C:\\Users\\angel\\Source\\Repos\\De_todo_chill\\De_Tod_chill\\De_Tod_chill.csproj",
         "projectName": "De_Tod_chill",
-        "projectPath": "C:\\Users\\angel\\Desktop\\Tarea final  programacion 2\\De_Tod_chill\\De_Tod_chill\\De_Tod_chill.csproj",
+        "projectPath": "C:\\Users\\angel\\Source\\Repos\\De_todo_chill\\De_Tod_chill\\De_Tod_chill.csproj",
         "packagesPath": "C:\\Users\\angel\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\angel\\Desktop\\Tarea final  programacion 2\\De_Tod_chill\\De_Tod_chill\\obj\\",
+        "outputPath": "C:\\Users\\angel\\Source\\Repos\\De_todo_chill\\De_Tod_chill\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
