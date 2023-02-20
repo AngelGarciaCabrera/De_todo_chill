@@ -5,6 +5,8 @@ VisualStudioVersion = 17.2.32519.379
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "De_Tod_chill", "De_Tod_chill\De_Tod_chill.csproj", "{F622129B-C774-43B1-9178-9CEEC69DC0CC}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "De_Tod_chill.Datos", "De_Tod_chill.Datos\De_Tod_chill.Datos.csproj", "{591E8BD5-9B73-4225-A34C-6D7ADB5E21F3}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{F622129B-C774-43B1-9178-9CEEC69DC0CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F622129B-C774-43B1-9178-9CEEC69DC0CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F622129B-C774-43B1-9178-9CEEC69DC0CC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{591E8BD5-9B73-4225-A34C-6D7ADB5E21F3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{591E8BD5-9B73-4225-A34C-6D7ADB5E21F3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{591E8BD5-9B73-4225-A34C-6D7ADB5E21F3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{591E8BD5-9B73-4225-A34C-6D7ADB5E21F3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

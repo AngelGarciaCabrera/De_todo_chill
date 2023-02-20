@@ -1,31 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\angel\\Desktop\\Tarea final  programacion 2\\De_Tod_chill\\De_Tod_chill\\De_Tod_chill.csproj": {}
+    "C:\\Users\\Elior\\RiderProjects\\De_todo_chill\\De_Tod_chill\\De_Tod_chill.csproj": {}
   },
   "projects": {
-    "C:\\Users\\angel\\Desktop\\Tarea final  programacion 2\\De_Tod_chill\\De_Tod_chill\\De_Tod_chill.csproj": {
+    "C:\\Users\\Elior\\RiderProjects\\De_todo_chill\\De_Tod_chill.Datos\\De_Tod_chill.Datos.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\angel\\Desktop\\Tarea final  programacion 2\\De_Tod_chill\\De_Tod_chill\\De_Tod_chill.csproj",
-        "projectName": "De_Tod_chill",
-        "projectPath": "C:\\Users\\angel\\Desktop\\Tarea final  programacion 2\\De_Tod_chill\\De_Tod_chill\\De_Tod_chill.csproj",
-        "packagesPath": "C:\\Users\\angel\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\angel\\Desktop\\Tarea final  programacion 2\\De_Tod_chill\\De_Tod_chill\\obj\\",
+        "projectUniqueName": "C:\\Users\\Elior\\RiderProjects\\De_todo_chill\\De_Tod_chill.Datos\\De_Tod_chill.Datos.csproj",
+        "projectName": "De_Tod_chill.Datos",
+        "projectPath": "C:\\Users\\Elior\\RiderProjects\\De_todo_chill\\De_Tod_chill.Datos\\De_Tod_chill.Datos.csproj",
+        "packagesPath": "C:\\Users\\Elior\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Elior\\RiderProjects\\De_todo_chill\\De_Tod_chill.Datos\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\angel\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\Elior\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -49,10 +43,107 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[6.0.13, 6.0.13]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[6.0.13, 6.0.13]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[6.0.13, 6.0.13]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Elior\\RiderProjects\\De_todo_chill\\De_Tod_chill\\De_Tod_chill.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Elior\\RiderProjects\\De_todo_chill\\De_Tod_chill\\De_Tod_chill.csproj",
+        "projectName": "De_Tod_chill",
+        "projectPath": "C:\\Users\\Elior\\RiderProjects\\De_todo_chill\\De_Tod_chill\\De_Tod_chill.csproj",
+        "packagesPath": "C:\\Users\\Elior\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Elior\\RiderProjects\\De_todo_chill\\De_Tod_chill\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Elior\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\Elior\\RiderProjects\\De_todo_chill\\De_Tod_chill.Datos\\De_Tod_chill.Datos.csproj": {
+                "projectPath": "C:\\Users\\Elior\\RiderProjects\\De_todo_chill\\De_Tod_chill.Datos\\De_Tod_chill.Datos.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.8, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[6.0.13, 6.0.13]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Host.win-x64",
+              "version": "[6.0.13, 6.0.13]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[6.0.13, 6.0.13]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[6.0.13, 6.0.13]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.AspNetCore.App": {
               "privateAssets": "none"
@@ -61,7 +152,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
         }
       }
     }
