@@ -1,12 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "wD5bdphmtHeC+bsZlAx7m3gGH/91VPoxXKY99gQtgf1JNMe5+N2AckDnpLqtgGxdwxr6CFdJ7ud9HsAG9pk1yA==",
+  "dgSpecHash": "9GJJMv+l+59zSWKBhauMjAdZ+pJGj+aYKuRvaG0fyPgBOvIrDGa2MNMXCTbnt5VxcV3MuYnjvEXCw4seyeQj5g==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Elior\\RiderProjects\\De_todo_chill\\De_Tod_chill.Datos\\De_Tod_chill.Datos.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\Elior\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.13\\microsoft.netcore.app.ref.6.0.13.nupkg.sha512",
-    "C:\\Users\\Elior\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.13\\microsoft.windowsdesktop.app.ref.6.0.13.nupkg.sha512",
-    "C:\\Users\\Elior\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.13\\microsoft.aspnetcore.app.ref.6.0.13.nupkg.sha512"
-  ],
+  "projectFilePath": "C:\\Users\\angel\\Source\\Repos\\De_todo_chill\\De_Tod_chill.Datos\\De_Tod_chill.Datos.csproj",
+  "expectedPackageFiles": [],
   "logs": []
 }
