@@ -9,8 +9,7 @@ namespace De_Tod_chill.Context
         {
 
         }
-        public
-
+     
 
     }
 }
