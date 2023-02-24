@@ -1,4 +1,4 @@
-﻿using De_Tod_chill.Datos.Entities;
+﻿using De_Tod_chill.Datos.Entities.Cliente;
 using Microsoft.EntityFrameworkCore;
 
 namespace De_Tod_chill.Context
@@ -10,8 +10,12 @@ namespace De_Tod_chill.Context
         {
 
         }
+<<<<<<< HEAD
 
         public DbSet<Cliente> Clientes
+=======
+        public DbSet<customers> Clientes
+>>>>>>> Rama-testdb
         {
             set;get;
         }
