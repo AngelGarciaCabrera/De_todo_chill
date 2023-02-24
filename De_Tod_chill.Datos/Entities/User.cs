@@ -1,6 +1,8 @@
-﻿namespace De_Tod_chill.Datos.Entities;
+﻿using De_Tod_chill.Datos.Entities.Cliente;
 
-public class User : ICliente<int> 
+namespace De_Tod_chill.Datos.Entities;
+
+public class User : IClient<int> 
 {
     public int Id { set; get; }
     public string Name { set; get; }

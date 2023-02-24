@@ -1,6 +1,8 @@
-﻿namespace De_Tod_chill.Datos.Entities;
+﻿using De_Tod_chill.Datos.Entities.Cliente;
 
-public class Admin : ICliente<string>
+namespace De_Tod_chill.Datos.Entities;
+
+public class Admin : IClient<string>
 {
     public string Id { set; get; }
     public string Rol { get; set; }

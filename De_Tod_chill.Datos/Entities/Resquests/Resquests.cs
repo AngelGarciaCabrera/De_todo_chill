@@ -4,20 +4,18 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace De_Tod_chill.Datos.Entities.Products
+namespace De_Tod_chill.Datos.Entities.Resquests
 {
-    public class Products
+    public class Resquests
     {
-        public Products()
+        public Resquests()
         {
-           
 
         }
-        public string name { get; set; }
         public int id { get; set; }
-        public double price { get; set; }
+        public string name { get; set; }
         public string description { get; set; }
-        public string Categoria { get; set; }
+        //continuar
 
     }
 }
