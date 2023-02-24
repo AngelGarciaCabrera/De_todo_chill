@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace De_Tod_chill.Datos.Entities
 {
-    internal class Cliente
+     public class Cliente
 
     {
         public Cliente()
