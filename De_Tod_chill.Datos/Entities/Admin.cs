@@ -2,7 +2,7 @@
 
 namespace De_Tod_chill.Datos.Entities;
 
-public class Admin : ICliente<string>
+public class Admin : IClient<string>
 {
     public string Id { set; get; }
     public string Rol { get; set; }

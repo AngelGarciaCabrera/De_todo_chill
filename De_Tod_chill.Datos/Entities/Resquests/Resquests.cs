@@ -14,7 +14,7 @@ namespace De_Tod_chill.Datos.Entities.Resquests
         }
         public int id { get; set; }
         public string name { get; set; }
-        public string descipcion  { get; set; }
+        public string description { get; set; }
         //continuar
 
     }

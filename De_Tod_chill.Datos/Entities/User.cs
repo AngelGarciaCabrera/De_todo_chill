@@ -2,7 +2,7 @@
 
 namespace De_Tod_chill.Datos.Entities;
 
-public class User : ICliente<int> 
+public class User : IClient<int> 
 {
     public int Id { set; get; }
     public string Name { set; get; }

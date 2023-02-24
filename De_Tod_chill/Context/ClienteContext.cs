@@ -10,7 +10,7 @@ namespace De_Tod_chill.Context
         {
 
         }
-        public DbSet<Cliente> Clientes
+        public DbSet<customers> Clientes
         {
             set;get;
         }

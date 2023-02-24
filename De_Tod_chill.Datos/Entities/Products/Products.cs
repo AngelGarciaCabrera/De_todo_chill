@@ -16,7 +16,7 @@ namespace De_Tod_chill.Datos.Entities.Products
         public string name { get; set; }
         public int id { get; set; }
         public double price { get; set; }
-        public string Descripcion { get; set; }
+        public string description { get; set; }
         public string Categoria { get; set; }
 
     }
