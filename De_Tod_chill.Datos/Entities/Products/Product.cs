@@ -4,18 +4,21 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace De_Tod_chill.Datos.Entities.Requests
+namespace De_Tod_chill.Datos.Entities.Products
 {
-    public class Requests
+    public class Product
     {
-        public Requests()
+        public Product()
         {
+           
 
         }
+
         public int Id { get; set; }
         public string Name { get; set; }
+        public double Price { get; set; }
         public string Description { get; set; }
-        // continuar
+        public string Category { get; set; }
 
     }
 }

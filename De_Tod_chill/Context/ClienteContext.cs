@@ -1,5 +1,4 @@
-﻿using De_Tod_chill.Datos.Entities.Cliente;
-using De_Tod_chill.Datos.Entities.Customers;
+﻿using De_Tod_chill.Datos.Entities.Customers;
 using Microsoft.EntityFrameworkCore;
 
 namespace De_Tod_chill.Context
@@ -11,6 +10,6 @@ namespace De_Tod_chill.Context
         {
         }
 
-        public DbSet<Customers> Clientes { set; get; }
+        public DbSet<Customer> Clientes { set; get; }
     }
 }

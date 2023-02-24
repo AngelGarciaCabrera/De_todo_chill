@@ -6,10 +6,10 @@ using System.Threading.Tasks;
 
 namespace De_Tod_chill.Datos.Entities.Customers
 {
-    public class Customers
+    public class Customer
 
     {
-        public Customers()
+        public Customer()
         {
 
         }
