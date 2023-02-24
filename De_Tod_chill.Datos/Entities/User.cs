@@ -1,4 +1,6 @@
-﻿namespace De_Tod_chill.Datos.Entities;
+﻿using De_Tod_chill.Datos.Entities.Cliente;
+
+namespace De_Tod_chill.Datos.Entities;
 
 public class User : ICliente<int> 
 {

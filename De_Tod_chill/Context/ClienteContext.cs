@@ -1,4 +1,4 @@
-﻿using De_Tod_chill.Datos.Entities;
+﻿using De_Tod_chill.Datos.Entities.Cliente;
 using Microsoft.EntityFrameworkCore;
 
 namespace De_Tod_chill.Context

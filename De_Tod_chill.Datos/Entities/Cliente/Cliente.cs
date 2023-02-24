@@ -4,9 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace De_Tod_chill.Datos.Entities
+namespace De_Tod_chill.Datos.Entities.Cliente
 {
-     public class Cliente
+    public class Cliente
 
     {
         public Cliente()

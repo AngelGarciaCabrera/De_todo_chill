@@ -6,7 +6,18 @@ using System.Threading.Tasks;
 
 namespace De_Tod_chill.Datos.Entities.Products
 {
-    internal class Products
+    public class Products
     {
+        public Products()
+        {
+           
+
+        }
+        public string name { get; set; }
+        public int id { get; set; }
+        public double price { get; set; }
+        public string Descripcion { get; set; }
+        public string Categoria { get; set; }
+
     }
 }
