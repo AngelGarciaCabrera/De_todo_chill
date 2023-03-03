@@ -1,4 +1,4 @@
-﻿namespace De_Tod_chill.Datos.Entities.Customers;
+﻿namespace De_Tod_chill.Database.Entities.Customers;
 
 public interface IClient<TId>
 {

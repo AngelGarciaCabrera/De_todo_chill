@@ -1,11 +1,6 @@
-﻿using System;
-using System.Collections.Generic;
-using System.ComponentModel.DataAnnotations;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿using System.ComponentModel.DataAnnotations;
 
-namespace De_Tod_chill.Datos.Entities.Customers
+namespace De_Tod_chill.Database.Entities.Customers
 {
     public class Customer
 

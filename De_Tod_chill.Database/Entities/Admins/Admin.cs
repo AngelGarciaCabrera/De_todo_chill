@@ -1,7 +1,7 @@
 ﻿using System.ComponentModel.DataAnnotations.Schema;
-using De_Tod_chill.Datos.Entities.Customers;
+using De_Tod_chill.Database.Entities.Customers;
 
-namespace De_Tod_chill.Datos.Entities.Admins;
+namespace De_Tod_chill.Database.Entities.Admins;
 
 public class Admin
 {
