@@ -7,9 +7,5 @@ public class Program
 {
     public static void Main()
     {
-        List<IClient<object>> clientes = new List<IClient<object>>();
-
-        IClient<string> admin = new Admin();
-        // clientes.Add(admin);
     }
 }

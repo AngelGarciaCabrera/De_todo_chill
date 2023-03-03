@@ -1,8 +1,5 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿using System.ComponentModel.DataAnnotations;
+using System.ComponentModel.DataAnnotations.Schema;
 using De_Tod_chill.Datos.Entities.Products;
 
 namespace De_Tod_chill.Datos.Entities.Requests
@@ -14,13 +11,16 @@ namespace De_Tod_chill.Datos.Entities.Requests
         {
 
         }
+        
+        [Key]
         public int Id { get; set; }
+        [MaxLength(50)]
         public string Name { get; set; }
+        [MinLength(15), MaxLength(100)]
         public string Description { get; set; }
-        // continuar
-
-        // ENTITY FRAMEWORK
+        
         public int ProductId { set; get; }
-        public Product Product { set; get; }
+        [ForeignKey("ProductId")]
+        public virtual Product Product { set; get; }
     }
 }

@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "De_Tod_chill", "De_Tod_chil
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "De_Tod_chill.Datos", "De_Tod_chill.Datos\De_Tod_chill.Datos.csproj", "{591E8BD5-9B73-4225-A34C-6D7ADB5E21F3}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "De_Tod_chill.Database", "De_Tod_chill.Database\De_Tod_chill.Database.csproj", "{B1E9954B-86BE-441A-9DEE-D4190B626128}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{591E8BD5-9B73-4225-A34C-6D7ADB5E21F3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{591E8BD5-9B73-4225-A34C-6D7ADB5E21F3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{591E8BD5-9B73-4225-A34C-6D7ADB5E21F3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B1E9954B-86BE-441A-9DEE-D4190B626128}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B1E9954B-86BE-441A-9DEE-D4190B626128}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B1E9954B-86BE-441A-9DEE-D4190B626128}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B1E9954B-86BE-441A-9DEE-D4190B626128}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
