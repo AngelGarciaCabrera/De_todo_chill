@@ -2,7 +2,7 @@
 
 namespace De_Tod_chill.Datos.DTOs.Products;
 
-public class ProductoDto
+public class ProductDto
 {
     
     public int Id { get; set; }
@@ -11,16 +11,16 @@ public class ProductoDto
     public string Description { get; set; }
     public string Category { get; set; }
 
-    public ProductoDto()
+    public ProductDto()
     {
     }
     
     
     // Implicit
 
-    public static implicit operator ProductoDto(Product p)
+    public static implicit operator ProductDto(Product p)
     {
-        return new ProductoDto()
+        return new ProductDto()
         {
             Id = p.Id,
             Name = p.Name,
