@@ -1,7 +1,16 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\De_Tod_chill",
+    "\\De_Tod_chill.Database",
+    "\\De_Tod_chill.Database\\Entities",
+    "\\De_Tod_chill.Database\\Entities\\Admins",
+    "\\De_Tod_chill.Datos",
+    "\\De_Tod_chill.Datos\\DTOs",
+    "\\De_Tod_chill.Datos\\DTOs\\Admins",
+    "\\De_Tod_chill.Datos\\DTOs\\Customers",
+    "\\De_Tod_chill\\wwwroot\\lib"
   ],
-  "SelectedNode": "\\De_Tod_chill.sln",
+  "SelectedNode": "\\De_Tod_chill.Datos\\DTOs\\Customers\\CustomersDto.cs",
   "PreviewInSolutionExplorer": false
 }
