@@ -3,6 +3,7 @@
     "",
     "\\De_Tod_chill",
     "\\De_Tod_chill.Database",
+<<<<<<< HEAD
     "\\De_Tod_chill.Database\\Entities",
     "\\De_Tod_chill.Database\\Entities\\Admins",
     "\\De_Tod_chill.Datos",
@@ -10,6 +11,10 @@
     "\\De_Tod_chill.Datos\\DTOs\\Admins",
     "\\De_Tod_chill.Datos\\DTOs\\Customers",
     "\\De_Tod_chill\\wwwroot\\lib"
+=======
+    "\\De_Tod_chill.Database\\Contexts",
+    "\\De_Tod_chill.Datos"
+>>>>>>> add  dbset the products, admins, requests
   ],
   "SelectedNode": "\\De_Tod_chill.Datos\\DTOs\\Customers\\CustomersDto.cs",
   "PreviewInSolutionExplorer": false

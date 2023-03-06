@@ -1,0 +1,14 @@
+C:\Users\angel\Source\Repos\AngelGarciaCabrera\De_todo_chill\De_Tod_chill.Database\bin\Debug\net6.0\De_Tod_chill.Database.deps.json
+C:\Users\angel\Source\Repos\AngelGarciaCabrera\De_todo_chill\De_Tod_chill.Database\bin\Debug\net6.0\De_Tod_chill.Database.runtimeconfig.json
+C:\Users\angel\Source\Repos\AngelGarciaCabrera\De_todo_chill\De_Tod_chill.Database\bin\Debug\net6.0\De_Tod_chill.Database.dll
+C:\Users\angel\Source\Repos\AngelGarciaCabrera\De_todo_chill\De_Tod_chill.Database\bin\Debug\net6.0\De_Tod_chill.Database.pdb
+C:\Users\angel\Source\Repos\AngelGarciaCabrera\De_todo_chill\De_Tod_chill.Database\obj\Debug\net6.0\De_Tod_chill.Database.csproj.AssemblyReference.cache
+C:\Users\angel\Source\Repos\AngelGarciaCabrera\De_todo_chill\De_Tod_chill.Database\obj\Debug\net6.0\De_Tod_chill.Database.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\angel\Source\Repos\AngelGarciaCabrera\De_todo_chill\De_Tod_chill.Database\obj\Debug\net6.0\De_Tod_chill.Database.AssemblyInfoInputs.cache
+C:\Users\angel\Source\Repos\AngelGarciaCabrera\De_todo_chill\De_Tod_chill.Database\obj\Debug\net6.0\De_Tod_chill.Database.AssemblyInfo.cs
+C:\Users\angel\Source\Repos\AngelGarciaCabrera\De_todo_chill\De_Tod_chill.Database\obj\Debug\net6.0\De_Tod_chill.Database.csproj.CoreCompileInputs.cache
+C:\Users\angel\Source\Repos\AngelGarciaCabrera\De_todo_chill\De_Tod_chill.Database\obj\Debug\net6.0\De_Tod_chill.Database.dll
+C:\Users\angel\Source\Repos\AngelGarciaCabrera\De_todo_chill\De_Tod_chill.Database\obj\Debug\net6.0\refint\De_Tod_chill.Database.dll
+C:\Users\angel\Source\Repos\AngelGarciaCabrera\De_todo_chill\De_Tod_chill.Database\obj\Debug\net6.0\De_Tod_chill.Database.pdb
+C:\Users\angel\Source\Repos\AngelGarciaCabrera\De_todo_chill\De_Tod_chill.Database\obj\Debug\net6.0\De_Tod_chill.Database.genruntimeconfig.cache
+C:\Users\angel\Source\Repos\AngelGarciaCabrera\De_todo_chill\De_Tod_chill.Database\obj\Debug\net6.0\ref\De_Tod_chill.Database.dll
