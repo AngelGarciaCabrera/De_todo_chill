@@ -1,11 +1,8 @@
-<<<<<<< HEAD
-﻿using De_Tod_chill.Database.Entities.Customers;
-=======
-﻿using De_Tod_chill.Datos.Entities.Admins;
-using De_Tod_chill.Datos.Entities.Customers;
-using De_Tod_chill.Datos.Entities.Products;
-using De_Tod_chill.Datos.Entities.Requests;
->>>>>>> add  dbset the products, admins, requests
+﻿
+using De_Tod_chill.Database.Entities.Admins;
+using De_Tod_chill.Database.Entities.Customers;
+using De_Tod_chill.Database.Entities.Products;
+using De_Tod_chill.Database.Entities.Requests;
 using Microsoft.EntityFrameworkCore;
 
 namespace De_Tod_chill.Database.Contexts;

@@ -1,4 +1,6 @@
-﻿namespace De_Tod_chill.Database.Entities.Products
+﻿using System.ComponentModel.DataAnnotations;
+
+namespace De_Tod_chill.Database.Entities.Products
 {
     public class Product
     {
