@@ -13,6 +13,8 @@ if (!app.Environment.IsDevelopment())
     app.UseHsts();
 }
 
+// builder.Services.AddDbContext<>()
+
 app.UseHttpsRedirection();
 app.UseStaticFiles();
 
