@@ -45,7 +45,7 @@ public class AdminRepository : IRepository<Admin, int>
         return context.Admins.ToList();
     }
 
-    // todo
+    // to do 
     public bool Delete(int id, string contextName)
     {
         return false;
